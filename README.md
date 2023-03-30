@@ -19,6 +19,11 @@ https://desafio-smart-nx-agathamagnus.vercel.app/
 ## Resultado: 
 ![image](https://user-images.githubusercontent.com/85269068/228870584-d5a6ca82-cd78-4f2c-833e-b5f412b25734.png)
 
+
+https://user-images.githubusercontent.com/85269068/228876063-a0187a7b-4eb6-4eff-adce-bb53253dff75.mp4
+
+
+
 ### Filtro que permite filtrar pelo nome dos mesmos:
 ![image](https://user-images.githubusercontent.com/85269068/228871017-90dda198-f6d2-44bd-8ee0-7a20445a5291.png)
 
