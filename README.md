@@ -30,3 +30,6 @@ https://desafio-smart-nx-agathamagnus.vercel.app/
 
 ### Responsividade:
 ![image](https://user-images.githubusercontent.com/85269068/228873577-8e9ecf08-2e64-43c4-b7c6-e5bd75fb371f.png)
+
+---
+ *Feito com ❤ por Ágatha Magnus* 
