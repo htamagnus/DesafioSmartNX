@@ -1,0 +1,27 @@
+.input {
+    background: transparent;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    border-radius: 6px;
+    border: 2px solid rgba(255, 255, 255, 0.789);
+    width: 200px;
+    height: 20px;
+    color: white;
+    outline: none;
+}
+
+.botao  {
+    background: transparent;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    border-radius: 6px;
+    border: 2px solid rgba(255, 255, 255, 0.789);
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+    &:hover{
+        background-color: #dfdfdf;
+        color: black;
+        transition: all 1s;
+    }
+}
